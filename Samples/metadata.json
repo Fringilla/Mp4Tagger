@@ -1,0 +1,4 @@
+[
+  { "file": "01.mp4", "title": "Song One", "artist": "Artist X", "album": "Album ABC", "year": 2024, "track": 1, "trackCount": 3, "disc": 1, "discCount": 1 },
+  { "file": "02.mp4", "title": "Song Two", "artist": "Artist X", "album": "Album ABC", "year": 2024, "track": 2, "trackCount": 3, "disc": 1, "discCount": 1 }
+]
